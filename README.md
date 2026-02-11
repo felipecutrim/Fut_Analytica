@@ -44,5 +44,5 @@ Projeto de análise de dados de futebol desenvolvido em Python e Streamlit. Foca
 Demonstrar competências em Engenharia de Dados (Coleta/API), Análise Exploratória e Business Intelligence aplicado ao esporte.
 
 ---
-**Autor:** [Seu Nome Aqui]
-**Contato:** [Seu LinkedIn/Email]
+**Autor:** Felipe Cutrim
+**Contato:** www.linkedin.com/in/felipe-henrique-cutrim-barbosa-561450217
